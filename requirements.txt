@@ -1,0 +1,10 @@
+endee
+streamlit
+sentence-transformers
+python-dotenv
+pypdf
+requests
+numpy
+fastapi
+uvicorn
+python-multipart
